@@ -113,4 +113,5 @@ car_price_prediction.ipynb
 ## Author
 
 Muthulaxmi Lakhani
+---
 Machine Learning / Data Science Enthusiast
